@@ -13,8 +13,7 @@
                 </button>
                 @foreach (var tipo in Model.Tipos)
                 {
-                    <button id="btn-@tipo.Nome.ToLower()" class="btn btn-sm my-2 text-white
-btn-filter" onclick="filter('@tipo.Nome.ToLower()')" style="background-color:@tipo.Cor">
+                    <button id="btn-@tipo.Nome.ToLower()" class="btn btn-sm my-2 text-white btn-filter" onclick="filter('@tipo.Nome.ToLower()')" style="background-color:@tipo.Cor">
                         @tipo.Nome
                     </button>
                 }
@@ -25,21 +24,20 @@ btn-filter" onclick="filter('@tipo.Nome.ToLower()')" style="background-color:@ti
 <div class="album py-5 bg-light">
     <div class="container">
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3">
-            <!-- Card Pokemon - Inicio -->
-            @foreach (var pokemon in Model.Barbies)
+            <!-- Card Barbie - Inicio -->
+            @foreach (var barbie in Model.Barbies)
             {
                 <div class="col">
-                    <div class="card shadow-sm cursor-pointer @string.Join(' ', pokemon.Tipo).ToLower()" onclick="GetInfo(@pokemon.Numero)">
-                        <img src="@pokemon.Imagem" class="card-img-top" width="100%" height="300" alt="@pokemon.Nome" />
+                    <div class="card shadow-sm cursor-pointer @string.Join(' ', barbie.Tipo).ToLower()" onclick="GetInfo(@barbie.Numero)">
+                        <img src="@barbie.Imagem" class="card-img-top" width="100%" height="300" alt="@barbie.Nome" />
                         <div class="card-body">
                             <p class="card-text mb-0">Nº @barbie.Numero.ToString("000")</p>
                             <h3 class="card-title">@barbie.Nome</h3>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    @foreach (var tipo in pokemon.Tipo)
+                                    @foreach (var tipo in barbie.Tipo)
                                     {
-                                        <a asp-action="Index" asp-routetipo="@tipo.ToLower()" class="btn my-2 text-white"
-                                   >@tipo</a>
+                                        <a asp-action="Index" asp-routetipo="@tipo.ToLower()" class="btn btn-dark my-2 text-white">@tipo</a>
                                     }
                                 </div>
                             </div>
@@ -47,8 +45,8 @@ btn-filter" onclick="filter('@tipo.Nome.ToLower()')" style="background-color:@ti
                     </div>
                 </div>
             }
-            <!-- Card Pokemon - Fim -->
-            <div id="zeroPokemon" class="col-lg-12 text-center">
+            <!-- Card Barbie - Fim -->
+            <div id="zeroBarbie" class="col-lg-12 text-center">
                 <h1 class="my-3 text-danger">Nenhuma Barbie Encontrada</h1>
             </div>
         </div>

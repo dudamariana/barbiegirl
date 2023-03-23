@@ -8,9 +8,100 @@
   },
   {
     "Numero": 2,
-    "Nome": "Barbie Em Quebra Nozes ",
-    "Descricao": "A banda de rock de Barbie acaba de completar uma bem-sucedida turnê mundial e decide realizar um último concerto no espaço, para promover a paz mundial. Em seguida, na Parte 2 (“Barbie and the Sensations”), quando a Barbie e sua banda voltam para a Terra, eles acabam viajando no tempo para 1959 (ano em que as primeiras bonecas Barbie, começaram a ser produzidas).",
-    "Tipo": [ "Música", "Romance" ] ,
+    "Nome": "Barbie Em Quebra Nozes",
+    "Descricao": "Clara ganha um lindo soldadinho de madeira de sua tia favorita. Na mesma noite, o soldado ganha vida para protege-la do Rato Rei, que invade sua sala. Ela acorda e ajuda o Quebra-Nozes, mas o Rato Rei a encolhe com uma terrível magia. Então, os dois se envolvem em uma espetacular aventura pera encontrar a Princesa Caramelo, a única que pode quebrar o diabólico feitiço.",
+    "Tipo": [ "Família", "Fantasia" ] ,
     "Imagem": "\\img\\barbies\\002.jpg"
+  },
+  {
+    "Numero": 3,
+    "Nome": "Barbie como Rapunzel",
+    "Descricao": "Há muito tempo atrás, numa época de mágicos e dragões, vivia uma jovem bela e talentosa de dezessete anos chamada Rapunzel, que tinha os mais belos e radiantes cabelos que alguém havia visto. Mas a vida de Rapunzel estava longe da perfeição, pois vivia como serviçal e prisioneira de Gothel, uma bruxa muito poderosa, ciumenta e possessiva. Ela mantinha Rapunzel escondida numa floresta proibida, guardada por um enorme dragão, Hugo, e cercada por um muro de vidro encantado. Porém, num capricho do destino, Rapunzel descobre um pincel mágico que a leva numa jornada pela verdade que desvendará intrigas e trará paz ao reino e finalmente levando-a a se apaixonar pelo belo Príncipe Stefan. Barbie Rapunzel mostra que o amor e a imaginação podem mudar o mundo.",
+    "Tipo": [ "Fantasia", "Romance" ] ,
+    "Imagem": "\\img\\barbies\\003.jpg"
+  },
+  {
+    "Numero": 4,
+    "Nome": "Barbie Lago dos Cisnes",
+    "Descricao": "Baseado na brilhante obra de Tchaikovsky, o filme apresenta Barbie como Odette, a filha de um padeiro que segue um unicórnio até à Floresta Encantada. O maléfico feiticeiro, Rothbart – que quer a todo o custo derrotar a sua prima, a Rainha das Fadas, e comandar os destinos da Floresta, transforma Odette num cisne. Lançando um feitiço em Odette, que a Rainha das Fadas só consegue quebrar em parte, Rothbart transforma-a em cisne durante o dia, feitiço que só desaparece de noite, quando Odette regressa à forma humana.",
+    "Tipo": [ "Fantasia", "Romance" ] ,
+    "Imagem": "\\img\\barbies\\004.jpg"
+  },
+  {
+    "Numero": 5,
+    "Nome": "Barbie em a Princesa e a Plebeia",
+    "Descricao": "A Princesa e a Plebéia é o primeiro musical da Barbie, com sete canções inéditas compostas especialmente para o filme. A boneca mais famosa do mundo canta e, ainda, vive dois papéis simultâneos: a princesa Anneliese e a mendiga Érika. Após descobrirem enormes semelhanças físicas entre si, trocam de lugar no reino mágico onde vivem. Uma história emocionante sobre identidades trocadas e amizade verdadeira para encantar todas as crianças.",
+    "Tipo": [ "Música", "Amizade" ] ,
+    "Imagem": "\\img\\barbies\\005.jpg"
+  },
+  {
+    "Numero": 6,
+    "Nome": "Barbie Fairytopia",
+    "Descricao": "Esta fantástica aventura acontece além do arco-íris em um lugar chamado Fairytopia, onde Barbie é Fada do Campo, uma fada sem asas. O que ela mais queria era ter asas para poder voar com Dandelion, sua melhor amiga. Mas quando a malvada Laverna, irmã gêmea da Rainha das Fadas, joga um feitiço no ar que mata as plantas e impede o voo de todos os habitantes, apenas a Fada do Campo tem forças para sair do jardim mágico e encontrar com Azura para salvar a todos!",
+    "Tipo": [ "Fantasia", "Aventura" ] ,
+    "Imagem": "\\img\\barbies\\006.jpg"
+  },
+  {
+    "Numero": 7,
+    "Nome": "Barbie em a Magia de Aladus" ,
+    "Descricao": "Ao completar 17 anos, a princesa Anika é pedida em casamento por um bruxo malvado e, diante de sua recusa, ele transforma os pais da moça e todos os súditos do reino em estátuas de gelo. Um cavalo alado aparece para ajudá-la a quebrar o feitiço.",
+    "Tipo": [ "Fantasia", "Romance" ] ,
+    "Imagem": "\\img\\barbies\\007.jpg"
+  },
+  {
+    "Numero": 8,
+    "Nome": "O Diário da Barbie ",
+    "Descricao": "Barbie se apaixona pelo craque do time, Todd, mas ele e Raquel, a garota mais popular do colégio, reatam o namoro. Barbie usa a pulseira que vem com seu diário e sua sorte muda. Ela inscreve sua banda no festival do baile e ganha admirador secreto.",
+    "Tipo": [ "Música", "Romance" ] ,
+    "Imagem": "\\img\\barbies\\008.jpg"
+  },
+  {
+    "Numero": 9,
+    "Nome": "Barbie Fairytopia Mermaidia",
+    "Descricao": "A fada Elina finalmente ganha um par de asas para poder voar e ser como as outras fadas, mas, para salvar o reino submarino de Mermaidia, Elina tem que abandonar suas adoradas asas para sempre para se transformar em uma linda sereia e ajudar um reino ameaçado pelo mal. O príncipe Nalu foi capturado e agora é prisioneiro da poderosa e malvada Laverna. Laverna tem um plano, ela quer governar sozinha toda o reino.",
+    "Tipo": [ "Fantasia", "Romance" ] ,
+    "Imagem": "\\img\\barbies\\009.jpg"
+  },
+  {
+    "Numero": 10,
+    "Nome": "Barbie As 12 Princesas Bailarinas",
+    "Descricao": "Barbie está de volta em uma mágica nova aventura musical, desta vez ao lado de suas irmãs princesas! Quando a malvada tia Rowena se muda para o castelo, ela proíbe que as meninas dancem ou cantem, pois ela acredita que esse não é o tipo de comportamento apropriado para princesas. Mas, as garotas descobrem um palácio mágico e secreto para onde fogem, até Barbie ficar sabendo que a tia está tramando para governar o reino. Agora ela precisa voltar para ajudar o rei, seu querido papai!",
+    "Tipo": [ "Música", "Fantasia" ] ,
+    "Imagem": "\\img\\barbies\\010.jpg"
+  },
+  {
+    "Numero": 11,
+    "Nome": "Barbie Fairytopia A Magia do Arco Íris",
+    "Descricao": "A corajosa fada Elina vai para uma escola de fadas no Palácio de Cristal, onde precisa aprender a usar seus poderes mágicos para realizar o Voo da Primavera. Mas a malvada Laverna está de volta e pretende congelar a primavera.",
+    "Tipo": [ "Fantasia", "Amizade" ] ,
+    "Imagem": "\\img\\barbies\\011.jpg"
+  },
+  {
+    "Numero": 12,
+    "Nome": "Barbie Em a Princesa da Ilha",
+    "Descricao": "Depois de sobreviver a um naufrágio, a pequena princesa Rosella cresce em uma ilha deserta, onde é acolhida e criada por uma família de animais. Dez anos depois, o príncipe Antonio descobre a ilha e convida Rosella para acompanhá-lo até o seu reino.",
+    "Tipo": [ "Música", "Romance" ] ,
+    "Imagem": "\\img\\barbies\\012.jpg"
+  },
+  {
+    "Numero": 13,
+    "Nome": "Barbie Butterfly A Nova Aventura Em Fairytopia",
+    "Descricao": "Butterfly é uma fada borboleta que mora no reino de Flutterfield e precisa encontrar um antídoto para salvar a vida da rainha Marabella, envenenada pela invejosa Henna. Para isso, conta com a ajuda do príncipe Carlos e das amigas Rayna e Rayla.",
+    "Tipo": [ "Fantasia", "Aventura" ] ,
+    "Imagem": "\\img\\barbies\\013.jpg"
+  },
+  {
+    "Numero": 14,
+    "Nome": "Barbie e o Castelo de Diamante",
+    "Descricao": "Liana e Alexa saem da sua cabana humilde para vender flores na vila e acabam conhecendo Melody, a guardiã do Castelo de Diamante. As duas decidem ajudá-la a impedir que a chave do castelo seja roubada por Lídia, uma musa egoísta.",
+    "Tipo": [ "Amizade", "Romance" ] ,
+    "Imagem": "\\img\\barbies\\014.jpg"
+  },
+  {
+    "Numero": 15,
+    "Nome": "Barbie Moda e Magia",
+    "Descricao": "Barbie parece ter tudo: grandes amigos, boas notas, um namorado fantástico, uma carreira de sucesso como atriz, beleza, inteligência, riqueza … Mas um dia tudo dá errado. Além das pessoas dizerem coisas terríveis sobre a sua atuação, Ken acaba o namoro com ela! Barbie, então, decide visitar sua tia Millie, uma designer de moda, em Paris, para esfriar a cabeça! Mas quando Barbie chega à Paris, ela descobre que sua tia está prestes a fechar sua loja de moda, a Millicent’s. Com a ajuda do assistente da tia Millie, Alecia, e os Glitzies, Barbie está determinada a salvar a Millicents. Barbie e seus amigos conseguirão fazer um evento de moda e salvar a loja de sua tia ou as suas dívidas poderão causar um desastre?",
+    "Tipo": [ "Moda", "Romance" ] ,
+    "Imagem": "\\img\\barbies\\019.jpg"
   }
 ]

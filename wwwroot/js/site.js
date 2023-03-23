@@ -26,9 +26,9 @@ function filter(type) {
         document.getElementById("btn-all").classList.add("btn-lg");
     };
     if (count == 0) {
-        document.getElementById("zeroPokemon").style.display = 'block';
+        document.getElementById("zeroBarbie").style.display = 'block';
     }
     else {
-        document.getElementById("zeroPokemon").style.display = 'none';
+        document.getElementById("zeroBarbie").style.display = 'none';
     }
 }
