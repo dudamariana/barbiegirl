@@ -37,7 +37,8 @@
                                 <div class="btn-group">
                                     @foreach (var tipo in barbie.Tipo)
                                     {
-                                        <a asp-action="Index" asp-routetipo="@tipo.ToLower()" class="btn btn-dark my-2 text-white">@tipo</a>
+                                        <a asp-action="Index" asp-routetipo="@tipo.ToLower()" class="btn my-2 text-white"
+                                         style="background-color:@service.GetTipo(tipo).Cor">@tipo</a>
                                     }
                                 </div>
                             </div>
